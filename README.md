@@ -13,7 +13,7 @@
 
 Welcome to my Data Dashboard Repository! 📊 Interactive data dashboards in Tableau, Power BI &amp; more. Explore insights in revenue, trends, and more. Let's connect &amp; dive into data! 📊
 
-![Page 1]([images/your-image-file.png](https://github.com/Aniket182001/Tata-Sales-Dashboard-PowerBI/blob/main/Tata%20Sales%20Dashboard_page-0001.jpg))
+![Tata Sales Dashboard](https://raw.githubusercontent.com/Aniket182001/Tata-Sales-Dashboard-PowerBI/main/Tata%20Sales%20Dashboard_page-0001.jpg)
 
 
 
