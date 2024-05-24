@@ -15,6 +15,24 @@ Welcome to my Data Dashboard Repository! 📊 Interactive data dashboards in Tab
 
 ![Tata Sales Dashboard](https://raw.githubusercontent.com/Aniket182001/Tata-Sales-Dashboard-PowerBI/main/Tata%20Sales%20Dashboard_page-0001.jpg)
 
+![Tata Sales Dashboard Page 2](https://raw.githubusercontent.com/Aniket182001/Tata-Sales-Dashboard-PowerBI/main/Tata%20Sales%20Dashboard_page-0002.jpg)
+
+![Tata Sales Dashboard Page 3](https://raw.githubusercontent.com/Aniket182001/Tata-Sales-Dashboard-PowerBI/main/Tata%20Sales%20Dashboard_page-0003.jpg)
+
+![Tata Sales Dashboard Page 4](https://raw.githubusercontent.com/Aniket182001/Tata-Sales-Dashboard-PowerBI/main/Tata%20Sales%20Dashboard_page-0004.jpg)
+
+![Tata Sales Dashboard Page 5](https://raw.githubusercontent.com/Aniket182001/Tata-Sales-Dashboard-PowerBI/main/Tata%20Sales%20Dashboard_page-0005.jpg)
+
+![Tata Sales Dashboard Page 6](https://raw.githubusercontent.com/Aniket182001/Tata-Sales-Dashboard-PowerBI/main/Tata%20Sales%20Dashboard_page-0006.jpg)
+
+![Tata Sales Dashboard Page 7](https://raw.githubusercontent.com/Aniket182001/Tata-Sales-Dashboard-PowerBI/main/Tata%20Sales%20Dashboard_page-0007.jpg)
+
+![Tata Sales Dashboard Page 8](https://raw.githubusercontent.com/Aniket182001/Tata-Sales-Dashboard-PowerBI/main/Tata%20Sales%20Dashboard_page-0008.jpg)
+
+![Tata Sales Dashboard Page 9](https://raw.githubusercontent.com/Aniket182001/Tata-Sales-Dashboard-PowerBI/main/Tata%20Sales%20Dashboard_page-0009.jpg)
+
+![Tata Sales Dashboard Page 10](https://raw.githubusercontent.com/Aniket182001/Tata-Sales-Dashboard-PowerBI/main/Tata%20Sales%20Dashboard_page-0010.jpg)
+
 
 
 <h3 align="left">Connect with me:</h3>
